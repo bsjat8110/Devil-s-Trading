@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/devil/devil-trading-agent/auto_trader.py", line 7, in <module>
+    import schedule
+ModuleNotFoundError: No module named 'schedule'
