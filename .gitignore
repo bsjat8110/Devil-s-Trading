@@ -1,0 +1,22 @@
+# Critical - Never upload
+.env
+*.key
+*.pem
+*.p12
+api_keys.txt
+credentials.json
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Optional - uncomment agar upload nahi karna
+# *.db
+# *.log
+
+# OS
+.DS_Store
+.env
