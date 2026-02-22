@@ -20,3 +20,8 @@ env/
 # OS
 .DS_Store
 .env
+
+# Prevent env backup leaks
+backups/*.backup
+backups/*env*
+*.backup
